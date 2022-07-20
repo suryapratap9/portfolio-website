@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+    font-family: 'Merriweather', serif;
+    text-decoration-color: #40514e;
+}
+
+h1{
+    font-size: 6.25rem;
+    margin-top: 0px;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    top: 200px;
+    color: #53a694;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #cfe1dd;
+    border-width: 5px;
+    margin: 100px 0 100x 0;
+    width: 5%;
+}
+
+.programmer{
+    font-size: 2rem;
+    position: relative;
+    top: 200px;
+}
+
+.mount{
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #53a694;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: #53a694;
+}
+
+.profile{
+    margin: 50px 10% 50px 10%;
+    line-height: 2;
+}
+
+.skills{
+    margin: 50px auto 50px auto;
+}
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 50px auto auto auto;
+    line-height: 2;
+}
+
+.java{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.dsa{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.arduino{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.hacking{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container{
+    border: 0px;
+    background-color: #e7ebef;
+    margin:0px;
+    font-size: 2.5rem;
+}
+
+.middle-container{    
+}
+
+.experience{
+    margin: 50px auto 50px auto;
+}
+
+.experience-row{
+    width: 50%;
+    margin: 50px auto auto auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.recognition{
+    margin: 50px auto;
+}
+
+.recognition-content{
+    width: 55%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.bottom-container{
+    background-color: #53a694;
+    padding: 30px 0 20px;
+}
+
+.btn {
+    background: #53a694;
+    background-image: -webkit-linear-gradient(top, #53a694, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #53a694, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #53a694, #2bc4ad);
+    background-image: -o-linear-gradient(top, #53a694, #2bc4ad);
+    background-image: linear-gradient(to bottom, #53a694, #2bc4ad);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  a{
+    color: #227d69;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 20px 20px;
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: #b9fff0;
+  }
+
+  .copyright{
+    color: #b9fff0;
+    font-size: 0.75rem;
+    margin: 20px;
+  }
